@@ -11,5 +11,5 @@ function handleUpdate() {
 // inputs.forEach((input) => input.addEventListener("change", handleUpdate));
 // inputs.forEach((input) => input.addEventListener("mousemove", handleUpdate));
 
-// The "input" event works for both and mad the code less shorter but still efficient.
+// The "input" event works for both and made the code more shorter but still efficient.
 inputs.forEach((input) => input.addEventListener("input", handleUpdate));
